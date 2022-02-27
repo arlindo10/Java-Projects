@@ -1,0 +1,21 @@
+
+                                       PEDIDO DE VENDA
+
+
+Número do Pedido: 000001                                            Data do Pedido: 02/03/2019
+ Cliente: Egel Locadora
+Vendedor: José Emanuel
+
+ Veículo: Volks Gol 2011                                            Valor:        R$ 33.000,00
+
+-------------------------------------- Itens do Pedido ---------------------------------------
+
+#Item   Descrição                                         Qtd - Valor Unitário - Valor do Item
+ 0001 - Calota-Aro-13pol--------------------------------- 004 -      R$ 100,00 -     R$ 400,00
+ 0002 - Sensor-Estacionamento---------------------------- 001 -    R$ 1.300,00 -   R$ 1.300,00
+ 0003 - GPS-Garmin--------------------------------------- 001 -    R$ 1.500,00 -   R$ 1.500,00
+
+----------------------------------------------------------------------------------------------
+Valor do Pedido:               R$ 2.900,00
+Comissão do Vendedor:            R$ 145,00
+
